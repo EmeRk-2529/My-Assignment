@@ -1,0 +1,260 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    padding-bottom: 100px;
+}
+.header_sec{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+.awalad{
+    font-size: 40px;
+    font-weight: 700;
+    margin-right:500px;
+
+}
+.btn_down{
+    background-color: #fff;
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 7px;
+}
+.group_img{
+    margin-top: 10px;
+}
+.header_design{
+    width: 100%;
+    min-height: 90vh;
+    background-image: url(B10A1-Challenge-Begins-main/assets/Hero-bg.png);
+    background-position: center;
+    background-size: cover;
+    padding: 50px 10%;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+.des_future{
+    font-size: 55px;
+    font-weight: 700;
+} 
+.lorem_des{
+    font-size: 20px;
+    color: #757575;
+    word-spacing: 8px;
+    line-height: 1.4;
+}
+.btn_contact{
+    /* font-size: 25px; */
+    background-color: black;
+    /* padding: 20px; */
+    border-radius: 7px;
+    color: #fff;
+    font-size: 22px;
+    padding: 15px;
+    width: 220px;
+    word-spacing: 2px;
+}
+main{
+    max-width: 1200px;
+    margin: auto;
+    padding-bottom: 80px;
+    
+}
+.second_section{
+    background-color: #fafafa;
+    padding-bottom: 20px;
+    /* width: 100%; */
+    /* min-height: 90vh; */
+   
+}
+.main_design{
+    text-align: center;
+    padding-top: 80px;
+   
+
+}
+.why_web{
+    font-size: 40px;
+    font-weight: 700;
+}
+.img_des{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    /* background-color: #fff; */
+    border-radius: 8px;
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.03);
+    margin: 70px;
+    padding: 50px;
+}
+.zero_career{
+    width: 100%;
+    cursor: pointer;
+}
+    
+.do_coding{
+    font-size: 28px;
+    word-spacing: 8px;
+}
+.learn_more{
+    font-size: 20px;
+    background-color: #fff;
+    padding: 10px;
+    width: 150px;
+}
+/* .group{ */
+    /* padding: 50px; */
+/* } */
+.logo_sec{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+    
+}
+.logo_html{
+    background-color: #fff5f3;
+    /* padding: 40px; */
+    /* margin: 20px; */
+    padding: 40px;
+    /* margin: 40px; */
+    width: 350px;
+    height: 265px;
+    border-radius: 10px;
+    word-spacing: 4px;
+
+}
+.logo_css{
+    background-color: #f2f6ff;
+    /* padding: 40px; */
+    /* /* margin: 20px; */
+     padding: 40px;
+    /* margin: 40px;  */
+    width: 350px;
+    height: 265px;
+    border-radius: 10px;
+    word-spacing: 4px;
+}
+
+.logo_java{
+    background-color: #fffdf1;
+    /* padding: 60px; */
+    /* margin: 20px; */
+    padding: 40px;
+    /* margin: 40px; */
+    width: 350px;
+    height: 265px;
+    border-radius: 10px;
+    word-spacing: 4px;
+}
+
+.me{
+    display: flex;
+    border: 1px solid black;
+    padding: 40px;
+    border-radius: 10px;
+    margin: 30px;
+}
+.hi{
+    margin-left: 30px;
+}
+.title_name{
+    font-size: 20px;
+    font-weight: 700;
+}
+.main_design1{
+    text-align: center;
+    padding: 80px;
+    background-image: url(B10A1-Challenge-Begins-main/assets/handshake.jpg);
+    /* width: 100%; */
+    border-radius: 8px;
+    overflow: hidden;
+    /* position: relative; */
+    text-align: center;
+    background-position: center;
+    /* opacity: 0.36; */
+    margin: 19.5px;
+    padding: 40px;
+    background-size: cover;
+}
+.why_web1{
+    font-size: 45px;
+font-weight: 700;
+color: #fff;
+}
+.lorem_des1{
+    font-size: 20px;
+    color: #FFF;
+    word-spacing: 8px;
+    line-height: 1.4;
+    opacity: 0.80;
+}
+.sub_input{
+    display: inline-flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.wrapper{
+    width: 500px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 35px;
+    display:inline-flex;
+}
+    
+ .input_data{
+    /* height: 150px; */
+    width: 100%;
+    position:relative;
+}
+.input_message{
+    width:  100%;
+    border:  none;
+    /* padding: 25px; */
+    height: 30px;
+    font-size: 16px;
+    outline: none;
+    color: #757575;
+    padding: 18px 35px;
+    /* margin-bottom: 24px; */
+}
+.btn_submit{
+    font-size: 17px;
+    background-color: #fff;
+    padding: 18px;
+    border-radius: 7px;
+    color: #000;
+    width: 120px;
+    font-weight: 700;
+    cursor: pointer;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #f8f8f8;
+    padding: 30px;
+    text-align: center;
+    align-items: center;
+
+
+}
+.Commitment_Awlad{
+font-size: 20px;
+word-spacing: 2px;
+padding: 20px;
+margin-right: 500px;
+
+}
+.footer_icon a{
+    margin-right: 25px;
+    text-align: center;
+    
+}

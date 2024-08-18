@@ -86,6 +86,10 @@ main{
     font-size: 40px;
     font-weight: 700;
 }
+.learn_more1{
+    color:#000;
+    font-weight: 600;
+}
 .img_des{
     display: flex;
     justify-content: space-around;

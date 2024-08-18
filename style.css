@@ -133,7 +133,7 @@ main{
     padding: 40px;
     /* margin: 40px; */
     width: 350px;
-    height: 265px;
+    height: 280px;
     border-radius: 10px;
     word-spacing: 4px;
 
@@ -145,7 +145,7 @@ main{
      padding: 40px;
     /* margin: 40px;  */
     width: 350px;
-    height: 265px;
+    height: 280px;
     border-radius: 10px;
     word-spacing: 4px;
 }
@@ -157,7 +157,7 @@ main{
     padding: 40px;
     /* margin: 40px; */
     width: 350px;
-    height: 265px;
+    height: 280px;
     border-radius: 10px;
     word-spacing: 4px;
 }
@@ -178,17 +178,17 @@ main{
 }
 .main_design1{
     text-align: center;
-    padding: 80px;
+    padding: 55px;
     background-image: url(B10A1-Challenge-Begins-main/assets/handshake.jpg);
     /* width: 100%; */
-    border-radius: 8px;
+    border-radius: 15px;
     overflow: hidden;
     /* position: relative; */
-    text-align: center;
+    /* text-align: center; */
     background-position: center;
     /* opacity: 0.36; */
     margin: 19.5px;
-    padding: 40px;
+    /* padding: 40px; */
     background-size: cover;
 }
 .why_web1{

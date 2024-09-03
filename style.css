@@ -185,7 +185,8 @@ main{
     padding: 55px;
     background-image: url(B10A1-Challenge-Begins-main/assets/handshake.jpg);
     /* width: 100%; */
-    border-radius: 15px;
+    /* border-radius: 15px; */
+    border-radius: 25px;
     overflow: hidden;
     /* position: relative; */
     /* text-align: center; */
@@ -268,4 +269,48 @@ margin-right: 500px;
     margin-right: 25px;
     text-align: center;
     
+}
+@media screen and (max-width:576px) {
+    .header_sec{
+        flex-direction: column;
+        gap:20px;
+    }
+    .awalad{
+        margin-right:0px;
+    }
+    .img_des {
+        flex-direction: column;
+        gap:50px;
+    }
+    .lorem_des{
+        font-size:17px;
+    }
+    iframe{
+        width:327px;
+        height:200px;
+    }
+    .logo_sec{
+        flex-direction: column;
+    }
+    .logo_html {
+        margin:24px;
+        width: 324px;
+    }
+    .logo_css{
+        margin:24px;
+        width: 324px;
+    }
+    .logo_java{
+        margin:24px;
+        width: 324px;
+    }
+    .me{
+        flex-direction: column;
+    }
+    footer{
+        flex-direction: column;
+    }
+    .Commitment_Awlad{
+        margin-right:0px;
+    }
 }

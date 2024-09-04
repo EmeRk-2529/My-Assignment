@@ -313,4 +313,13 @@ margin-right: 500px;
     .Commitment_Awlad{
         margin-right:0px;
     }
+    .input_message {
+        padding: 0px;
+    }
+    .wrapper {
+    width: 245px;
+    margin-left: -12px;
+}
+.btn_submit {
+    margin-top: 15px;
 }
